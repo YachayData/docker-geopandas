@@ -1,0 +1,11 @@
+matplotlib
+numpy
+seaborn
+spectra
+rtree
+folium
+descartes
+geopandas
+rtree
+jupyter
+jupyterlab
